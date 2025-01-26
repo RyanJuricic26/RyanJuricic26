@@ -17,8 +17,8 @@ I am currently an undergraduate student at Belmont University pursuing my BBA in
 - Thirst for Victory: A research project looking at the impacts of beverage sponsorship on teams' performance throughout the March Madness tournament.
 
 ## Connect With Me:
-- [LinkedIn]: www.linkedin.com/in/ryanjuricic
-- [Email]: ryanjuricic@gmail.com
+- [LinkedIn](www.linkedin.com/in/ryanjuricic)
+- [Email](ryanjuricic@gmail.com)
 <!---
 RyanJuricic26/RyanJuricic26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
