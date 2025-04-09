@@ -13,8 +13,8 @@ I am currently an undergraduate student at Belmont University pursuing my BBA in
 - Tools: Neo4j, Azure Data Studio, Microsoft SQL Server, AWS Environment
 
 ## What I'm Working On:
-- MovieQueue: A personalized dashboard with a movie recommender system powered by Neo4j and Python
-- Thirst for Victory: A research project looking at the impacts of beverage sponsorship on teams' performance throughout the March Madness tournament.
+- [MovieQueue](https://github.com/RyanJuricic26/MovieQueue): A personalized dashboard with a movie recommender system powered by Neo4j and Python
+- [Thirst for Victory](https://github.com/RyanJuricic26/Thirst-for-Victory): A research project looking at the impacts of beverage sponsorship on teams' performance throughout the March Madness tournament.
 
 ## Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/ryanjuricic)
